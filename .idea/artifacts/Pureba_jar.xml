@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pureba:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pureba_jar</output-path>
+    <root id="archive" name="Pureba.jar">
+      <element id="module-output" name="Pureba" />
+    </root>
+  </artifact>
+</component>
